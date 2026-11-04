@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ANIMADO ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Thomas%20Sining&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ingeniería%20de%20Sistemas%20y%20Computación&descAlignY=58&descSize=18" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Thomas%20Sining&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ingeniería%20de%20Sistemas%20e%20Informática&descAlignY=58&descSize=18" alt="banner"/>
 </p>
 
 <!-- ===================== TEXTO QUE SE ESCRIBE SOLO ===================== -->
@@ -9,11 +9,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Soy+Thomas+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Backend+con+Python+y+FastAPI+%F0%9F%90%8D;Bases+de+datos+con+PostgreSQL+%F0%9F%90%98;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thomassining15-maker&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="visitas" />
-</p>
-
 ---
 
 ### Sobre mí
@@ -23,7 +18,7 @@
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### Tecnologías y herramientas
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -33,7 +28,7 @@
 
 ---
 
-### 🚀 Proyectos destacados
+### Proyectos destacados
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
