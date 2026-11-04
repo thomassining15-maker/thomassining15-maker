@@ -6,7 +6,7 @@
 <!-- ===================== TEXTO QUE SE ESCRIBE SOLO ===================== -->
 <p align="center">
   <a href="https://github.com/thomassining15-maker">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Soy+Thomas+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Backend+con+Python+y+FastAPI+%F0%9F%90%8D;Bases+de+datos+con+PostgreSQL+%F0%9F%90%98;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Soy+Thomas+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Backend+con+Python+y+FastAPI+%F0%9F%90%8D;Bases+de+datos+con+PostgreSQL+%F0%9F%90%98;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
   </a>
 </p>
 
