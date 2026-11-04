@@ -6,7 +6,7 @@
 <!-- ===================== TEXTO QUE SE ESCRIBE SOLO ===================== -->
 <p align="center">
   <a href="https://github.com/thomassining15-maker">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=¡Hola!+Soy+Thomas+👋;Estudiante+de+Ingeniería+de+Sistemas;Backend+con+Python+y+FastAPI+🐍;Bases+de+datos+con+PostgreSQL+🐘;Siempre+aprendiendo+algo+nuevo+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Soy+Thomas+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Backend+con+Python+y+FastAPI+%F0%9F%90%8D;Bases+de+datos+con+PostgreSQL+%F0%9F%90%98;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -46,16 +46,12 @@
 ### Estadísticas de GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thomassining15-maker&show_icons=true&theme=tokyonight&hide_border=true&locale=es&count_private=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomassining15-maker&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="lenguajes" />
+  <img height="170" src="./profile/stats.svg" alt="stats" />
+  <img height="170" src="./profile/top-langs.svg" alt="lenguajes" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=thomassining15-maker&theme=tokyonight&hide_border=true&locale=es" alt="racha" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thomassining15-maker&theme=tokyo-night&hide_border=true&area=true" alt="gráfica de actividad" />
 </p>
 
 ---
