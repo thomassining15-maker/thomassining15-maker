@@ -16,12 +16,10 @@
 
 ---
 
-### 👨‍💻 Sobre mí
+### Sobre mí
 
-- 🎓 Estudiante de **Ingeniería de Sistemas y Computación**
-- 🔭 Actualmente trabajo en una **red social de estudio** con FastAPI + PostgreSQL
-- 🌱 Aprendiendo sobre **desarrollo backend, bases de datos y paradigmas de programación**
-- 💬 Pregúntame sobre **Python, SQL o JavaScript**
+- Estudiante de **Ingeniería de Sistemas e Informática**
+- Aprendiendo sobre **desarrollo backend, bases de datos y paradigmas de programación**
 
 ---
 
@@ -39,13 +37,13 @@
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| 📚 **Red Social de Estudio** | Proyecto final de Bases de Datos: red social para compartir material de estudio. | Python · FastAPI · PostgreSQL |
-| 🧩 **Proyecto Final Paradigmas** | Implementación, diagramas y correcciones del proyecto de Paradigmas de Programación. | — |
-| 🎓 **Universidad** | Proyectos y aplicaciones útiles desarrollados desde primer semestre hasta hoy. | JavaScript |
+| **Red Social de Estudio** | Proyecto final de Bases de Datos: red social para compartir material de estudio. | Python · FastAPI · PostgreSQL |
+| **Proyecto Final Paradigmas** | Implementación, diagramas y correcciones del proyecto de Paradigmas de Programación. | — |
+| **Universidad** | Proyectos y aplicaciones útiles desarrollados desde primer semestre hasta hoy. | JavaScript |
 
 ---
 
-### 📊 Estadísticas de GitHub
+### Estadísticas de GitHub
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=thomassining15-maker&show_icons=true&theme=tokyonight&hide_border=true&locale=es&count_private=true" alt="stats" />
@@ -62,7 +60,7 @@
 
 ---
 
-### 🐍 Mis contribuciones
+### Mis contribuciones
 
 <p align="center">
   <picture>
@@ -73,7 +71,7 @@
 
 ---
 
-### 📫 Contacto
+### Contacto
 
 <p align="center">
   <a href="mailto:thomassining15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
